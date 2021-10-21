@@ -1,0 +1,160 @@
+
+[
+    {
+        "NumCard" : 1,
+        "Name" : "Cresselia",
+        "Year" : 2008,
+        "Price" : 22.15,
+        "Rarity" : "Rare Holo",
+        "Extension" : "Diamant & Perle Aube Majestueuse",
+        "PictureURL" : ""
+    },
+    {
+        "NumCard" : 2,
+        "Name" : "Pingoléon",
+        "Year" : 2008,
+        "Price" : 2.50,
+        "Rarity" : "Rare",
+        "Extension" : "Diamant & Perle Aube Majestueuse",
+        "PictureURL" : ""
+    },
+    {
+        
+        "NumCard" : 3,
+        "Name" : "Givrali",
+        "Year" : 2008,
+        "Price" : 47.55,
+        "Rarity" : "Rare Holo Lv.X",
+        "Extension" : "Diamant & Perle Aube Majestueuse",
+        "PictureURL" : ""
+    },
+    {
+        
+        "NumCard" : 4,
+        "Name" : "Tyranocif",
+        "Year" : 2018,
+        "Price" : 285.55,
+        "Rarity" : "Rainbow rare",
+        "Extension" : "Soleil et Lune Tonnerre Perdu",
+        "PictureURL" : ""
+    },
+    {
+        
+        "NumCard" : 5,
+        "Name" : "Ténéfix",
+        "Year" : 2015,
+        "Price" : 1.05,
+        "Rarity" : "Peu Commune",
+        "Extension" : "XY Origines Antiques",
+        "PictureURL" : ""
+    },
+    {
+        
+        "NumCard" : 6,
+        "Name" : "Muscule",
+        "Year" : 2015,
+        "Price" : 1.00,
+        "Rarity" : "Commune",
+        "Extension" : "XY Origines Antiques",
+        "PictureURL" : ""
+    },
+    {
+        "NumCard" : 7,
+        "Name" : "Suicune",
+        "Year" : 2018,
+        "Price" : 14.00,
+        "Rarity" : "Rare Holo GX",
+        "Extension" : "Soleil et Lune Tonnerre Perdu",
+        "PictureURL" : ""
+    },
+    {
+        "NumCard" : 8,
+        "Name" : "Terrakium",
+        "Year" : 2012,
+        "Price" : 9.00,
+        "Rarity" : "Rare Holo EX",
+        "Extension" : "Noir & Blanc Dragons Exaltés",
+        "PictureURL" : ""
+    },
+    {
+        "NumCard" : 9,
+        "Name" : "Magicarpe",
+        "Year" : 2012,
+        "Price" : 0.79,
+        "Rarity" : "Commune",
+        "Extension" : "Noir & Blanc Dragons Exaltés",
+        "PictureURL" : ""
+    },
+    {
+        "NumCard" : 10,
+        "Name" : "Trioxhydre",
+        "Year" : 2012,
+        "Price" : 1.29,
+        "Rarity" : "Rare",
+        "Extension" : "Noir & Blanc Dragons Exaltés",
+        "PictureURL" : ""
+    },
+    {
+        "NumCard" : 11,
+        "Name" : "Raikou",
+        "Year" : 2005,
+        "Price" : 140.00,
+        "Rarity" : "Ultra Rare",
+        "Extension" : "EX Forces Cachées",
+        "PictureURL" : ""
+    },
+    {
+        "NumCard" : 12,
+        "Name" : "Ursaring",
+        "Year" : 2005,
+        "Price" : 15.85,
+        "Rarity" : "Rare Holo",
+        "Extension" : "EX Forces Cachées",
+        "PictureURL" : ""
+    },
+    {
+        "NumCard" : 13,
+        "Name" : "Charmilly",
+        "Year" : 2021,
+        "Price" : 16.69,
+        "Rarity" : "Rare Ultra",
+        "Extension" : "Destinées Radieuses",
+        "PictureURL" : ""
+    },
+    {
+        "NumCard" : 14,
+        "Name" : "Yvetal",
+        "Year" : 2021,
+        "Price" : 8.00,
+        "Rarity" : "Magnifique",
+        "Extension" : "Destinées Radieuses",
+        "PictureURL" : ""
+    },
+    {
+        "NumCard" : 15,
+        "Name" : "Moumouton Shiny",
+        "Year" : 2021,
+        "Price" : 6.90,
+        "Rarity" : "Rare Holo",
+        "Extension" : "Destinées Radieuses",
+        "PictureURL" : ""
+    },
+    {
+        "NumCard" : 16,
+        "Name" : "Zarude",
+        "Year" : 2021,
+        "Price" : 1.80,
+        "Rarity" : "Rare",
+        "Extension" : "Destinées Radieuses",
+        "PictureURL" : ""
+    },
+    {
+        "NumCard" : 17,
+        "Name" : "Dracaufeu",
+        "Year" : 1999,
+        "Price" : 196.17,
+        "Rarity" : "Rare Holo",
+        "Extension" : "Set de Base",
+        "PictureURL" : ""
+    }
+]

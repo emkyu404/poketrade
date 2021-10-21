@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1> Je suis l'homepage </h1>
+    <h1> HOMEPAGE </h1>
   </div>
 </template>
 
